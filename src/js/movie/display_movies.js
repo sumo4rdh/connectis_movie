@@ -3,7 +3,3 @@ export default function(movieArray) {
     console.log(item);
   });
 }
-
-const obj = { a: "test" };
-obj.a = "yolo";
-console.log(obj);
