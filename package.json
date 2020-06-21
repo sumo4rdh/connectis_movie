@@ -24,7 +24,6 @@
 		"webpack-dev-server": "^2.7.1"
 	},
 	"dependencies": {
-		"axios": "^0.19.2",
 		"d3": "3.5.17",
 		"regenerator-runtime": "^0.13.5",
 		"sass": "^1.26.3",
